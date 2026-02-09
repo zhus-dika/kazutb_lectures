@@ -69,4 +69,5 @@
 - Saaty, T. — The Analytic Hierarchy Process
 - French, S. et al. — Decision Behaviour, Analysis and Support
 - Kahneman & Tversky — статьи по biases / prospect theory (для лекции 12)
+- https://web.stanford.edu/group/sisl/public/dmu.pdf
 
