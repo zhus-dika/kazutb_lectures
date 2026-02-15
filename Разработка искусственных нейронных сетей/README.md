@@ -65,11 +65,11 @@ Yandex handbook https://education.yandex.ru/handbook/ml
 
 ---
 
-## СРОП / задания (по README каждой недели)
+## СРОП / задания
 
 > Формат: делаем задания из указанных ноутбуков. Дедлайны и правила сдачи — объявляются отдельно.
 
-| Неделя | Папка | Что сдаём (ноутбуки/части) | Баллы (если указаны в README) |
+| Неделя | Папка | Что сдаём (ноутбуки/части) | Баллы|
 |---:|---|---|---:|
 | 1 | `week01_backprop` | `backprop.ipynb` (N-layer backprop) + `adaptive_sgd.ipynb` (SGD mods) | 5 + 5 |
 | 2 | `week02_autodiff` | `homework_pytorch.ipynb` (и практика `seminar_pytorch.ipynb`) | — |
@@ -88,7 +88,7 @@ Yandex handbook https://education.yandex.ru/handbook/ml
 
 ---
 
-## Сдача (коротко)
+## Сдача
 - Сдаём **.ipynb** (и/или ссылку на репо).
 - Ноутбуки должны запускаться **Restart & Run All**.
 - Если в неделе указано “submit both” — сдаём **оба** ноутбука этой недели.
