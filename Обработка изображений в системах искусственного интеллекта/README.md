@@ -71,7 +71,7 @@
 | 1 | `Classification` | [Бинарная классификация изображений и решение проблемы дисбаланса классов](https://colab.research.google.com/drive/1772rBZGw83yGr2D0jbmOtx8AtDqwuUSp#scrollTo=mLrXWnsp5d6q) | — |
 | 2 | `Detection` | [Одностадийная детекция](https://colab.research.google.com/drive/1PCJFD4YEwXmQnSb0YxrmTnR6bIv8ZDuC?usp=sharing) | — |
 | 3 | `Segmentation` | [Семантическая сегментация](https://colab.research.google.com/drive/1Kni36PCFxxNru6DZ2vwFA8Qk85W-XhL1?usp=sharing) | — |
-| 4 | `` | []() | — |
+| 4 | `Tracking` | [Разбор нейросетевого модуля трекинга](https://github.com/zhus-dika/kazutb_lectures/blob/main/%D0%9E%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0%20%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%B2%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%85%20%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D0%B0/%D0%A1%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82%D0%B0%D0%BC_%D0%94%D0%97_14_5_%D0%A0%D0%B0%D0%B7%D0%B1%D0%BE%D1%80_%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D1%81%D0%B5%D1%82%D0%B5%D0%B2%D0%BE%D0%B3%D0%BE_%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8F_%D1%82%D1%80%D0%B5%D0%BA%D0%B8%D0%BD%D0%B3%D0%B0.ipynb) | — |
 | 5 | `Diffusion` | [Диффузионные модели](https://colab.research.google.com/drive/1_PUs3JPFFWNa7c_xDxxdaSDSz90SZ0gZ?usp=sharing) | — |
 
 ---
