@@ -3,6 +3,8 @@ Yandex handbook https://education.yandex.ru/handbook/ml
 # Разработка искусственных нейронных сетей
 Основа курса: **YSDA Practical_DL (branch: fall25)** https://github.com/yandexdataschool/Practical_DL — структура по неделям `week01`–`week14`.
 
+Курс ВШЭ: **Основы глубинного обучения** https://github.com/hse-ds/iad-deep-learning/tree/master/2025
+
 ---
 
 ## План лекций (по неделям) + краткое содержание
