@@ -2,7 +2,7 @@
 
 | Занятие | Тема | Самостоятельно | На занятии | Домашнее задание / сдача | Дедлайн |
 |---:|---|---|---|---|---|
-| **1** | Табличные данные (Polars) | Изучить ноутбук: https://github.com/esokolov/ml-course-hse/blob/master/2025-fall/seminars/sem01-polars.ipynb | Разбор ключевых операций Polars: чтение данных, фильтрация, join, groupby/agg, типы данных | Выполнить ноутбук: https://github.com/esokolov/ml-course-hse/tree/master/2025-fall/homework-practice/homework-practice-01-tabular (сдать ноутбук + результаты ячеек) | **через 2 недели после выдачи** |
+| **1** | Табличные данные (Polars) | Изучить ноутбук: https://github.com/esokolov/ml-course-hse/blob/master/2025-fall/seminars/sem01-polars.ipynb | Разбор ключевых операций Polars: чтение данных, фильтрация, join, groupby/agg, типы данных | Выполнить ноутбук: https://github.com/esokolov/ml-course-hse/tree/master/2025-fall/homework-practice/homework-practice-01-tabular (сдать ноутбук + результаты ячеек). Контест для проверки результатов распределения студентов на курсы здесь https://contest.yandex.ru/contest/52663/enter/| **через 2 недели после выдачи** |
 | **2** | Визуализация (Charts) + сбор данных (альтернативный трек) | Изучить ноутбук: https://github.com/esokolov/ml-course-hse/blob/master/2025-fall/seminars/sem02-charts.ipynb | 1) Разбор графиков из ноутбука. 2) Постановка задачи по сбору данных **без полного EDA** (сбор + таблица + минимальные проверки качества) | **Лаб 2 (сбор данных):** выбрать тему (космос/медицина/наука и т.д.), собрать данные, сделать анализ| **через 2 недели после выдачи** |
 | **3** | Скоро появится | — | — | — | — |
 | **4** | Скоро появится | — | — | — | — |
